@@ -7,7 +7,7 @@
     "yarn": "1.10.1"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.10",
     "moment": "^2.23.0",
